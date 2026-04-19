@@ -6,20 +6,20 @@ EXPIRA 24/04/2026
 http://morcegao.org/get.php?username=Andre8277&password=zN2w8P&type=m3u_plus&output=ts
 
 #EXTM3U
-#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238604.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238606.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 FHD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238607.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 SD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238609.ts
 #EXTINF:-1 tvg-name="BBB Cam 03 FHD" tvg-logo="http://morcegao.org/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 FHD mrcg
 http://morcegao.org:80/Andre8277/zN2w8P/238639.ts
 #EXTINF:-1 tvg-name="BBB Cam 03 HD" tvg-logo="http://morcegao.org/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 HD mrcg
 http://morcegao.org:80/Andre8277/zN2w8P/238641.ts
 #EXTINF:-1 tvg-name="BBB Cam 03 SD" tvg-logo="http://morcegao.org/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 SD mrcg
 http://morcegao.org:80/Andre8277/zN2w8P/238693.ts
+#EXTINF:-1 tvg-name="BBB Cam 02 FHD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 FHD mrcg
+http://morcegao.org:80/Andre8277/zN2w8P/238607.ts
+#EXTINF:-1 tvg-name="BBB Cam 02 SD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 SD mrcg
+http://morcegao.org:80/Andre8277/zN2w8P/238609.ts
+#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 FHD mrcg
+http://morcegao.org:80/Andre8277/zN2w8P/238604.ts
+#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 SD mrcg
+http://morcegao.org:80/Andre8277/zN2w8P/238606.ts
 #EXTINF:-1 tvg-name="BBB Cam 04 FHD" tvg-logo="http://morcegao.org/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 FHD mrcg
 http://morcegao.org:80/Andre8277/zN2w8P/238694.ts
 #EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="http://morcegao.org/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 HD mrcg
