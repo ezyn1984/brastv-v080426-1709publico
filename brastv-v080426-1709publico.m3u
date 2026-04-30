@@ -1,120 +1,838 @@
-SERVIDOR http://morcegao.org Andre8277 zN2w8P
-USER Andre8277
-SENHA zN2w8P
-CRIADA 21/02/2026
-EXPIRA 24/04/2026
-http://morcegao.org/get.php?username=Andre8277&password=zN2w8P&type=m3u_plus&output=ts
-
 #EXTM3U
-#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238604.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238606.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 FHD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238607.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 SD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238609.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 FHD" tvg-logo="http://morcegao.org/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238639.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 HD" tvg-logo="http://morcegao.org/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238641.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 SD" tvg-logo="http://morcegao.org/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238693.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 FHD" tvg-logo="http://morcegao.org/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238694.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="http://morcegao.org/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238695.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 SD" tvg-logo="http://morcegao.org/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238696.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 FHD" tvg-logo="http://morcegao.org/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238697.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 HD" tvg-logo="http://morcegao.org/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238698.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 SD" tvg-logo="http://morcegao.org/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238699.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 FHD" tvg-logo="http://morcegao.org/static/bbb/06.jpg" group-title="Canais | BBB",BBB Cam 06 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238700.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 HD" tvg-logo="http://morcegao.org/static/bbb/06.jpg" group-title="Canais | BBB",BBB Cam 06 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238701.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 SD" tvg-logo="http://morcegao.org/static/bbb/06.jpg" group-title="Canais | BBB",BBB Cam 06 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238702.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 FHD" tvg-logo="http://morcegao.org/static/bbb/07.jpg" group-title="Canais | BBB",BBB Cam 07 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238703.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 HD" tvg-logo="http://morcegao.org/static/bbb/07.jpg" group-title="Canais | BBB",BBB Cam 07 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238704.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 SD" tvg-logo="http://morcegao.org/static/bbb/07.jpg" group-title="Canais | BBB",BBB Cam 07 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238705.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 FHD" tvg-logo="http://morcegao.org/static/bbb/08.jpg" group-title="Canais | BBB",BBB Cam 08 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238706.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 HD" tvg-logo="http://morcegao.org/static/bbb/08.jpg" group-title="Canais | BBB",BBB Cam 08 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238707.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 SD" tvg-logo="http://morcegao.org/static/bbb/08.jpg" group-title="Canais | BBB",BBB Cam 08 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238708.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 FHD" tvg-logo="http://morcegao.org/static/bbb/09.jpg" group-title="Canais | BBB",BBB Cam 09 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238709.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 HD" tvg-logo="http://morcegao.org/static/bbb/09.jpg" group-title="Canais | BBB",BBB Cam 09 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238710.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 SD" tvg-logo="http://morcegao.org/static/bbb/09.jpg" group-title="Canais | BBB",BBB Cam 09 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238711.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 FHD" tvg-logo="http://morcegao.org/static/bbb/10.jpg" group-title="Canais | BBB",BBB Cam 10 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238712.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 HD" tvg-logo="http://morcegao.org/static/bbb/10.jpg" group-title="Canais | BBB",BBB Cam 10 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238713.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 SD" tvg-logo="http://morcegao.org/static/bbb/10.jpg" group-title="Canais | BBB",BBB Cam 10 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238714.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 FHD" tvg-logo="http://morcegao.org/static/bbb/11.jpg" group-title="Canais | BBB",BBB Cam 11 FHD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238715.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 HD" tvg-logo="http://morcegao.org/static/bbb/11.jpg" group-title="Canais | BBB",BBB Cam 11 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238716.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 SD" tvg-logo="http://morcegao.org/static/bbb/11.jpg" group-title="Canais | BBB",BBB Cam 11 SD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238717.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 HD" tvg-logo="http://morcegao.org/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238718.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 HD" tvg-logo="http://morcegao.org/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 HD mrcg
-http://morcegao.org:80/Andre8277/zN2w8P/238719.ts
-#EXTINF:-1,BBB CAM 01
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6939E8fkQU2SP2TYTg1_3HWw/ts
-#EXTINF:-1,BBB CAM 02
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6923QiIswxZQkKfO6et-jg2Q/ts
-#EXTINF:-1,BBB CAM 03
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690jTJJMZ4GQWWecy2sLyhkY/ts
-#EXTINF:-1,BBB CAM 04
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697NI9aJ-w60zUKkNo4umEBo/ts
-#EXTINF:-1,BBB CAM 05
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698H2reChJoDZalNBZmFMZao/ts
-#EXTINF:-1,BBB CAM 06
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_A47C8v3hWYfIcDH2eV4Uc/ts
-#EXTINF:-1,BBB CAM 07
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696PsuLqHe5_SAWop4uuc3h4/ts
-#EXTINF:-1,BBB CAM 08
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x1n78PSIyZcM4mnoq_gv_8/ts
-#EXTINF:-1,BBB CAM 09
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694W3_X7gebAVINqIari2N2k/ts
-#EXTINF:-1,BBB CAM 10
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693ct8o0S0iKmRUCqhbp8Ow8/ts
-#EXTINF:-1,BBB CAM 11
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694RgqGZFutJNwh9XNDs5X_I/ts
-#EXTINF:-1,BBB CAM 12
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xDsNhJp5GegGWMmaLAZKkI/ts
-#EXTINF:-1,BBB26 - ACADEMIA
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696jnSsbHufbn38oFBPJm810/ts
-#EXTINF:-1,BBB26 - ACOMPANHE A CASA
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yLxlfQWZRZpEhVDT1dyF38/ts
-#EXTINF:-1,BBB26 - ACOMPANHE A CASA 2
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-fiUQy55jNnRROPhxTEs7k/ts
-#EXTINF:-1,BBB26 - CAMERA PANTENE
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691YqteLhLBOO9tmY_OlLuz8/ts
-#EXTINF:-1,BBB26 - COZINHA
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69w_tb8W1pvKk3ekDCRzaEW0/ts
-#EXTINF:-1,BBB26 - COZINHA 2
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691FpeCQLVKQSOph99FTD3kw/ts
-#EXTINF:-1,BBB26 - PISCINA
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692wfIfI-UsC51v9Y4mz0RRo/ts
-#EXTINF:-1,BBB26 - QUARTO SONHO DE ETERNIDADE
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_VyKrQRHuNVG36qfpztCa4/ts
-#EXTINF:-1,BBB26 - QUARTO SONHO DE VOAR
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6980E00fdKvTLd_vr5gjiezw/ts
-#EXTINF:-1,BBB26 - QUARTO SONHO DO GRANDE AMOR
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zeTdN7MvD8vIihlAoAcpKw/ts
-#EXTINF:-1,BBB26 - SALA
-http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6901FzjFfbqRp50kPSTJOdBM/ts
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1,Velozes & Furiosos 9
+http://svv.cpds.online:80/play/6n_o2_sUw_qY2oc3aXVrGEbUtMHTtDWM-tXCDFlbpsOQWBv2nZ112FO3bYX8moOI
+
+#EXTINF:-1,Velozes & Furiosos 10
+http://svv.cpds.online:80/play/6n_o2_sUw_qY2oc3aXVrGANErpGEpw-9TGrWUnv44TVSF6pc4K0O2h1Voltv9ZaC
+
+#EXTINF:-1 group-title="FILMES E SÉRIRES",A&E 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696WABZEvgTTS3AcIaBPNn-Q/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",A&E 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xKE15KBZ1o7nc-24ZMkVCk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",ADULT SWIN 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698d96_Ox7BrcdhLQfD578Ww/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",ADULT SWIN FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-rBknex9zA5ukNiCD32Q0k/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",ADULT SWIN HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698mtYAylyPworL9ADeBCjh0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",ADULT SWIN SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699lUhTDvTKN55OCL8ef5BuA/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AMC 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697mTqpy9suMImPlLTU34d3g/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AMC BREAK
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692ImV_OO8yZEXF5PZHLSLiI/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AMC SERIES FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698fdJ-AlPLX4Bg_53HeHTwk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AMC SERIES HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yfj7ZHjx6J1OXQjGQ2t6KY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AMC SERIES SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697pc6I5KFO_K5YAf8Qthtpg/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AMC
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_fIrbn9b2FYfHFTyyJlKmY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AXN 4K
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690RO51ih8SCX-r-xF7hH7ds/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AXN FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693oK9ZTBC35obfg8pft-YcQ/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AXN HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693KjN2eOFNbTWZq-W2kQxyM/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",AXN
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-HDmhzOyk-C01U-QI4HsZQ/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Cine Brasil TV SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699I5ngfJaUR5PV49D0NE6Ig/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Cine Espanto 
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696Ow96ymjmmFbeQgypZL9gk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",CINEMAX 4K
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xp9KVd5HP22E4RmBmMa9aY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",CINEMUNDO
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699hPndCPZ4bGNCnprhpuIlo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",FILM&ARTS 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692rciIsz3L5HZPPf39nUurc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",FILM&ARTS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692tMmbHIpKnht1CmhXG3GuA/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",FILM&ARTS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694NpmSadctfbwjIv6Wfsp8Q/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",FILM&ARTS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69w6mjshsm8NFP9mH6n6OF4w/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",HBO 1 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696uFb7z4d1SSnm3by7SqoiQ/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",HBO 1 SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69598iOvxGJRP1AMxTmdcHQo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",HBO HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691Qtpvqd5GOKOO_DEyyK_4c/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",HBO SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696XXtIosCMW8KTow3QnF5D0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",LIFETIME FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_vVaIdo6Zgq-G2DyLpxXcA/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",MAX TNT
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wprfc-fjDwz3aGwKTT_eT8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691VJc2ZmgNyb0LkV9T9o8MY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69458jEQfRPXnp3I0LVE14lY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697x0LC30xaGgmjmxL_eVRw8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698FlIkQG3FJkcYW_NSoMXt0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695CvdMhcaV_UL4z8UOPGb50/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698Jn-CxuWcNGWC6zNNGUnpo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-XhcBWO26ZAS4LLbx-r9gk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692obczIMTlApBdpPrHZnulI/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PARAMOUNT + 05
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zlckLdziMVFoNbQgOAL6VY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME BOX BRASIL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yqasvoJjpXmVqkk7Sebl_A/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME BOX BRASIL FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693M_AJEGmC60DXVAqzPfk_E/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME BOX BRASIL HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y2f66uZS7ssct2Ocw2mWgk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME BOX BRASIL SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xN72IKDIlI6Rn-LsLTuBNU/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xk9BsbUz-xPDi2BGqt_Q4I/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690kyTRjNeW3fUY8vwKX8jTw/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zMKNJe451Vbddu7wfhJ6fk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694TaV6VKrZHbdlc1h46Ddos/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 1
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wQ4Xo2v19pjjl40a9Hxv_Y/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 10
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699lBrWxaZcIAu6kfhwUpUrM/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 11
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_mG30vGSBgzYzCL8xww2Sw/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 12
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692fFguzdbTbDZuO9Ay_lUc8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 13
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697YbXHBUlB9lQ87IJGio9fc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 15
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698wFvKPVuipq7BDeaBCixzw/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 2
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697Q1UUxeMrDZJ7hie1DjKj4/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 3
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696l2DcWzHJVNhj0fOSkt_Us/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 4
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692Tdv4AWqLLdRIsgi_3lgtM/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 5
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692xmF1_gqmNyiR70Pe-iaY8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 6
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698QAABRKHCw3ZW6QNWkxA3o/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 7
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698VgdwCZ95XrMKaWeMm4FmI/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 8
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697f5PrSAS9o74U7yTSbJNXo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",PRIME VIDEO 9
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69w_u7Bs1zCsll_OkbeRWzbM/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sky News HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693DSMWuyAqyC3nbQogCYoAA/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY CHANNEL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694j8QkUHJLJOvuZsHgauByw/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY CHANNEL FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zAQV7eF_BaRQScraZNqMZc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY CHANNEL HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yeDpyEl71TfcqSVXMdPW88/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY CHANNEL SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-cFFOamFPr2Yt1uz2wczFY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY MOVIES 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_sAcqmUesygJ1wJrzWalAc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY MOVIES FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-F_787LlZl86CGiyAMqdqA/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY MOVIES HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-pm3_JNTWysZdIgx9MS2R0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SONY MOVIES SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696rtjHRBeG5b39vIeQ306Sk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sony One Cinema FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695RkUC35TgSnnGmNC5YIa9Y/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sony One Cinema HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-zhKKoM720kjfIxkwoB7q8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sony One Cinema SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6931RIE8ACeQW-f6-lXt6kLU/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sony One Emoções FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696Adr7H0crO5npJCH8v1cHY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sony One Emoções HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y2KpOJtb1GbbIFFl2gxPaI/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",Sony One Emoções SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_d26XSFUPq1jNVZrPpRt_c/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",SPACE 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693yiuHaJo7nmlIj3vSHYJt4/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",STUDIO UNIVERSAL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_nUenYWjRwjv3YBNxU7ox8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TCM  4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693tD_TSiGps_ewTPDy7c9pc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TCM FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690Q14LF5ynktsgmMIQNkSY0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE ACTION 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697AI8vOG-2yuoNMcsEwSSPo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE CULT 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693wHXYBzq9S6k8eG8RUVqNo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE CULT SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697XUeHSGCuj7SgTPnglUdn8/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE FUN 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694uPAA93UPme1WdGI_1W6zs/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE FUN FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690ud0nAlygDJktFwC7Lqnnc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE PIPOCA 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wze9XxjyYHFI3KoLkeQkws/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE PREMIUM 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693Sfl5uipNb7t-hijHWx4_0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TELECINE TOUCH 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_jTk-23zT4Pw-llyjSHjgQ/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TLC 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wINdpsTt_RlR_Ui7O17Lic/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TLC FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6923cHYYnrjUov1w9qLuct-g/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TLC HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xNFA5hS_v52DeL1aZdin0Q/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TLC SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693NBB-NysElUIbJZ3nS-L3M/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TLC
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691Bk3Au-G7WMawcLZIFwVZo/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xlAIfNRavTwHucVTMmOir0/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699n9J8pc5b_08JbV33Ten6A/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693GJAjCEhcyPEb9zKutIMXg/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT NOVELAS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x17OsNkFRjUH-L9Afmb8Bc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT NOVELAS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69ynIiQB-BT9STfY2g0B0ACI/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT NOVELAS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699miPtAPZzEBOljPf8egKbk/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6991y2LmpHuE_y9TGHW9Q-sU/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT SERIES 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699zhPdkpsbvun0-M3p7JDkY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT SERIES FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694_bgTzFtjxA8NNQJcZvbhc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT SERIES HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-fRVTu6sc8Y4Zp1hOK6wgY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT SERIES HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695V-m0KYxfHkpaIJl3RNrYE/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",TNT SERIES SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698cQOqWgMn6zadUb5geD6Mc/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",UNIVERSAL TV 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690BN8NgoPyDUMPlyBpqZ1Jg/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",USA 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-HeT4XUZwM-BayFioVuYP4/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",USA FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693vFfgWvbZgGAETixn0zdrY/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",USA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690xAc-_BLezZqO5FsRLzlto/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",USA SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695UUrjvOF7pFFmrqFifukhw/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",WARNER 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694VEpAC1NO9aHA8O5BbzcYw/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",WARNER TV 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696GjBeXiF7wQgzB613oWm6E/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",WARNER TV FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xQVj22xR0m8pRDvpZQkJoQ/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",WARNER TV HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694pyxbkkmOcIaUo1arpokqQ/ts
+#EXTINF:-1 group-title="FILMES E SÉRIRES",WARNER TV SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xxC202-rUe0qEm6ZWZ4v4c/ts
+
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695-X83sKRVTfzWs3tizULhU/ts
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690AgJGeH4uF5cyv819orv84/ts
+#EXTINF:-1 group-title="ESPORTES",BAND SPORTS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695k_GqvGKzJpWWT1Qx7kAmM/ts
+#EXTINF:-1 group-title="ESPORTES",COMBA TV
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6914oeWcp-ixgeH_b2S8gaiM/ts
+#EXTINF:-1 group-title="ESPORTES",COMBATE FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6979EYkX-26KJsAfEgjeW1Cs/ts
+#EXTINF:-1 group-title="ESPORTES",COMBATE
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698aPhvo91NORRy2qkNEw8fo/ts
+#EXTINF:-1 group-title="ESPORTES",DAZN 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698IoFgSB5Xem-ExrkP6wPVA/ts
+#EXTINF:-1 group-title="ESPORTES",DAZN 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yiZjea5mVLxbTFNNW91a6s/ts
+#EXTINF:-1 group-title="ESPORTES",DAZN 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y0nv6i_Ds4jdPQ1dpjjIgQ/ts
+#EXTINF:-1 group-title="ESPORTES",DAZN 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691D0sds8xKt9FaVVSaWHnlw/ts
+#EXTINF:-1 group-title="ESPORTES",DAZN 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zYqgq7Eo6cbsJjfjxiRoD4/ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-uxBkYw-KT2fFi_H9EMPl0/ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693FRnYnJSgyshVahYJlfft4/ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694fAnd0UA7_eaTOgJwUCNXc/ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wmZ63qhT1EtvTNoiXmpMVg/ts
+#EXTINF:-1 group-title="ESPORTES",ELEVEN SPORTS 05
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699i3fZNl7s3Ziy2dnbwvnpY/ts
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 1
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696eEeG7EGlJ-E_JWsUe-U4k/ts
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 2
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699Xd6rP8NrLbOnNB_7vTYoQ/ts
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 3
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691JzGTr5UmwLOUw05QkUk0s/ts
+#EXTINF:-1 group-title="ESPORTES",Eleven Sports 4
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694olc4Mv66WCsDHS3zc0jW0/ts
+#EXTINF:-1 group-title="ESPORTES",Euro News HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699srwJLatuXVGmnDqFsp3fY/ts
+#EXTINF:-1 group-title="ESPORTES",FIFA +
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691cAXJB9GLmG1kOZGrcjc9I/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zdyDiBz0VXZ4qg2URveGyM/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696agtzDeu2sLKpVYwF_IYxI/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_z5kqX08gRSCQuv3QeEIlg/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693hVS-GGtxgAdRpMJrvVP5s/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 05
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yMMJdj43LUl14r_4O7W994/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 06
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6931JtLXp3C0AxL7vUitLg9k/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 07
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69856S_W3sxFHLuirrJyO0rU/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 08
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xDJbh_4XV91yskZ6BaFmIk/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 09
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697R4mLLET5kNGlwHBz96pww/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 10
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690WdUw7Gdy5jk2P0_cVdrh4/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 11
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-Dzl4ShjA27X4mpogaxZQI/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 12
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xH1nLjwaOQdD4of8FCvBi0/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 13
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zv75irKoh6swu5qhlYAMX4/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 14
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wN1Sxv6pI7szwISVpXPp9s/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 15
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695VeGYLvtJXXZwUKxO9PuQY/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 16
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yZNDsl5UhOuuGu1wDdIBLk/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 17
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69424Ndad7swKf94ZZuIHfR4/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 18
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696X4CzYrMPBfvNu4EzHLA5w/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 19
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698TyZH0rRsdR-8d1Y4DvI1U/ts
+#EXTINF:-1 group-title="ESPORTES",NBA PASS 20
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696k_3z54Qz7nv2xMfUn1evs/ts
+#EXTINF:-1 group-title="ESPORTES",Nosso Futebol 01 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698HvthoxNXd5QPycJ_lc9FU/ts
+#EXTINF:-1 group-title="ESPORTES",NS SPORTS 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697Y5GouGGdImkmAWQNzKeY0/ts
+#EXTINF:-1 group-title="ESPORTES",NS SPORTS 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xxJ5cydlzTOK84k3tz9wTo/ts
+#EXTINF:-1 group-title="ESPORTES",NS SPORTS 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6947ijvZZ2F9WucTUKQmN9lQ/ts
+#EXTINF:-1 group-title="ESPORTES",NS SPORTS 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zlLX3fNKX73COfqeI5vsJI/ts
+#EXTINF:-1 group-title="ESPORTES",Nsports FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694FJsJJrioOsuktlqvX9AG4/ts
+#EXTINF:-1 group-title="ESPORTES",Nsports HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693BQrq-oVQMtc-VrLAq636U/ts
+#EXTINF:-1 group-title="ESPORTES",Nsports
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695XfPXAWvHif0rY7O8gwmwI/ts
+#EXTINF:-1 group-title="ESPORTES",Off FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691LZ2IXpomUn--2vtKU4bfE/ts
+#EXTINF:-1 group-title="ESPORTES",Off HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693-vUkaunt-TdlFmXteoqdc/ts
+#EXTINF:-1 group-title="ESPORTES",OFF HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_aprh1TjUc96LaW_kydawI/ts
+#EXTINF:-1 group-title="ESPORTES",OFF SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yuigRsiFlwmOQscetd9bok/ts
+#EXTINF:-1 group-title="ESPORTES",Off SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yzPGqMKQo6g5zBIniGb6zk/ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 2 FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6983VUKwynjheMpi6SOVFrkw/ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 8 FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6911pcnwAtEtNi30QkbDGMwY/ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 8 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697qKY-UfD5iue5o8BSqFVRA/ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 8 SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691UrX1__bVid6o_sJaUKQv4/ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 9 FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yboXIgF2qCtE7kwkJ4_T0w/ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE CLUBES FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69202eHVpIW5PBFs8LJeiQHY/ts
+#EXTINF:-1 group-title="ESPORTES",RS SPORTS 2
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699uUZIYLUNrdpSyjy3-0gkQ/ts
+#EXTINF:-1 group-title="ESPORTES",RS SPORTS 3
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691ON-jdMIM_-wS5jyJ4Ykqk/ts
+#EXTINF:-1 group-title="ESPORTES",RS SPORTS
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xcdCPVqvwxXcS1zpmRJrn8/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 1 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-qbjnjv0o8r6yDr7foljwE/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 2 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695W1gcEwNK-waMQ5NHmEfiI/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 3 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y72K9xoLVzz8yMHNMsyeDQ/ts
+#EXTINF:-1 group-title="ESPORTES",SporTV 4K
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695ABl6j-NLu6xI7uuu2Uhbs/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV FHD ALT
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698PeJVRYm-K9-RFX5mvtZYQ/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695srIKCqQwfAn43_bHQgkcE/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697RhUA9OQdqQRcbtz0EpjLk/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6949BAfwfJvb_UyEqWqDpZ44/ts
+#EXTINF:-1 group-title="ESPORTES",sportynet  - 3
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691vE59T2_7mUWvxmDTvtwbo/ts
+#EXTINF:-1 group-title="ESPORTES",sportynet - 1
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yCSqkUE-ttamIB6A2P0eG4/ts
+#EXTINF:-1 group-title="ESPORTES",sportynet - 2
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6982DTOBvY605-D8lLLgKd8Y/ts
+#EXTINF:-1 group-title="ESPORTES",sportynet - 4
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696yDkM-ommqAfHshAbLvaJs/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 01 [ALT]
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692C67VJb7QS7DaNE_NQ6sPo/ts
+#EXTINF:-1 group-title="ESPORTES",Sportynet 01 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y-d75Qj9A-jpCUMtsOF7Sk/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691v7p4ejfAR77tY6qD03j1c/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693Zi4s3Fb4mk4-wGkbnuRBs/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 02 [ALT]
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xRs12Hq13FI_O-gS2C4iBs/ts
+#EXTINF:-1 group-title="ESPORTES",Sportynet 02 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695I1wPmneCXa9cUYFjVbv6Y/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694TfoetvqioQ88oPqVY1aBs/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yFBhvhweIizAlxwDox25h4/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 03 [ALT]
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696ZaoP9fjgj_DZ81Ct3KxaY/ts
+#EXTINF:-1 group-title="ESPORTES",Sportynet 03 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694UH8l0XtvvxmbNSeFif5Ok/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696cPddFzC97FzLeCkvfWJ3U/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xR3MGLxiXblpg2czemNHp8/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 04 [ALT]
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_9MbBCDjP3YICh5HRYhpSI/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693HHXz1D-vdl0y6UODE6K0c/ts
+#EXTINF:-1 group-title="ESPORTES",SPORTYNET 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6983pn_FKVJ6UIEgp9nDARJg/ts
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 01 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6912DZni_qJBlH7WDVFvCHFQ/ts
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 02 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-wh70QCwz9ML-IW6IcwtMw/ts
+#EXTINF:-1 group-title="ESPORTES",TNT SPORTS 03 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yALtvobHdAQmbBxvr37KPU/ts
+#EXTINF:-1 group-title="ESPORTES",Tve Espanha FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_dZmi2cETijIG1LeGajRYY/ts
+#EXTINF:-1 group-title="ESPORTES",Tve Espanha HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69ykaAZ5oC7JiCdUhuSILMqY/ts
+#EXTINF:-1 group-title="ESPORTES",Tve Espanha SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697QhTcu-66rjAyM2CfTu3zI/ts
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT PASS 01 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690pbqQuM1DzOuebxNrqp7Jk/ts
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT PASS 02 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695lOmnI_1g_Xel16nq3oTbI/ts
+#EXTINF:-1 group-title="ESPORTES",UFC FIGHT PASS 03 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xZ9Mb-4qka1TLfFA7UKvG4/ts
+#EXTINF:-1 group-title="ESPORTES",UFC Paramount +
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wLzkavAeHiBvPQr7KVL6_Q/ts
+#EXTINF:-1 group-title="ESPORTES",Unique Sports 2
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_hTHSb_FIXtUxUZN7EHhK8/ts
+#EXTINF:-1 group-title="ESPORTES",Unique Sports 3
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699aRXrFoPgzf1z4a60HWzQ8/ts
+#EXTINF:-1 group-title="ESPORTES",Unique Sports
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696_wJAQ9jLm-lem26Od1L1w/ts
+#EXTINF:-1 group-title="ESPORTES",UNIVERSAL PREMIERE FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691GiL_r4HDHHTD_7d59PTz0/ts
+#EXTINF:-1 group-title="ESPORTES",UNIVERSAL PREMIERE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z4zgsXRq4KSpHWb8wYydQI/ts
+#EXTINF:-1 group-title="ESPORTES",UNIVERSAL PREMIERE SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y9pZezHMvtPUBCs6cL8MuY/ts
+#EXTINF:-1 group-title="ESPORTES",UNIVERSAL REALITY 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-3Lb1VPwH00khHc1njpoLs/ts
+#EXTINF:-1 group-title="ESPORTES",UNIVERSAL REALITY
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yapa1d6qZ-_j1C8FxdrDFI/ts
+#EXTINF:-1 group-title="ESPORTES",X SPORTS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690P1cOHce_UoKsKF66hsKcM/ts
+#EXTINF:-1 group-title="ESPORTES",X SPORTS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6917cSn94UPKCp77Jo9tT4bY/ts
+#EXTINF:-1 group-title="ESPORTES",XSPORTS 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694MURHKzTl_ofEXXTLFV8ms/ts
+#EXTINF:-1 group-title="ESPORTES",XSPORTS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693s4EuZVnlanRoOc2E2fMIY/ts
+
+#EXTINF:-1 group-title="INFANTIS",BLOOMBERG 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696vI-8EbD1OMOdiz2jYpWoQ/ts
+#EXTINF:-1 group-title="INFANTIS",BLOOMBERG FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-K5GA_LSQazO063LywNmOc/ts
+#EXTINF:-1 group-title="INFANTIS",BLOOMBERG HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697-1TF7SAGAdpsSSrszbP0A/ts
+#EXTINF:-1 group-title="INFANTIS",BLOOMBERG SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x356Lo-NM5lL_wWPNrxPu0/ts
+#EXTINF:-1 group-title="INFANTIS",Bloomberg Television FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zIiNbHMjuOp0xvpGQrPa-s/ts
+#EXTINF:-1 group-title="INFANTIS",Bloomberg Television HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697VZlWpBzK7K5cpsiABQ1hU/ts
+#EXTINF:-1 group-title="INFANTIS",Bloomberg Television SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691yey_suj9MysLUc8ZWQGcI/ts
+#EXTINF:-1 group-title="INFANTIS",CARTOON NETWORK 4K
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696iC3AqMB1_eQFZq2EWEhWM/ts
+#EXTINF:-1 group-title="INFANTIS",CARTOON NETWORK FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698CgJtP5eO9T4SGeWm6J00Y/ts
+#EXTINF:-1 group-title="INFANTIS",CARTOON NETWORK
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696oNRmA3Vz1L2_AiqFgWlMk/ts
+#EXTINF:-1 group-title="INFANTIS",CARTOONITO 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6913WzLhGZlEuYw_9h_lY4N0/ts
+#EXTINF:-1 group-title="INFANTIS",DISCOVERY KIDS 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692wssop4rU-fjqbTM6fFM2M/ts
+#EXTINF:-1 group-title="INFANTIS",DISNEY 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_021nb0SHnY1ENQ8-kV6fA/ts
+#EXTINF:-1 group-title="INFANTIS",DREAM WORKS 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694yzGFqv5ocpwLhF_zt_Rmk/ts
+#EXTINF:-1 group-title="INFANTIS",DREAM WORKS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696ojdAcC5wqV5KoLj2XhE_U/ts
+#EXTINF:-1 group-title="INFANTIS",DREAM WORKS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69y_O_KppGD0hHUXk2KzENDk/ts
+#EXTINF:-1 group-title="INFANTIS",DREAM WORKS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690uFfyetN5e55iYAdNPVhZc/ts
+#EXTINF:-1 group-title="INFANTIS",GLOOBINHO 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wIK7TAR43O6RQFyFqzOb30/ts
+#EXTINF:-1 group-title="INFANTIS",GLOOBINHO FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x0OrcGLHfFLFNOdbdY-QRM/ts
+#EXTINF:-1 group-title="INFANTIS",GLOOBINHO HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-aUk0MGKmXiEWRVCV_lXBQ/ts
+#EXTINF:-1 group-title="INFANTIS",GLOOBINHO SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wVGrMLI8m3jBqRL8fbtGqw/ts
+#EXTINF:-1 group-title="INFANTIS",NICK JR FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wCVcd_PmqdGjmw4zwF--5c/ts
+#EXTINF:-1 group-title="INFANTIS",TOONCAST FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_yTVn2oHU7XFuhHKSHw4p0/ts
+
+#EXTINF:-1 group-title="ABERTOS",BAND BAHIA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xQLwh0AZMGDMavixYW_GYo/ts
+#EXTINF:-1 group-title="ABERTOS",BAND BRASILIA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6982F2g1Si4G_ku00fvDcmJk/ts
+#EXTINF:-1 group-title="ABERTOS",BAND CAMPINAS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xoNDdChKt-MLLOAeNZAcWs/ts
+#EXTINF:-1 group-title="ABERTOS",BAND RECIFE FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_oy7vN75BIkQ3UJ3jno0ho/ts
+#EXTINF:-1 group-title="ABERTOS",BAND RECIFE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690EL-wK4ETuOerAp0gg8mSM/ts
+#EXTINF:-1 group-title="ABERTOS",BAND RECIFE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_Z51zhVgdq02MLvKsUL90E/ts
+#EXTINF:-1 group-title="ABERTOS",BAND RJ FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690SEmgbLnbISTNOjYcvFTvw/ts
+#EXTINF:-1 group-title="ABERTOS",BAND RJ HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_pKYkTrNwFbwbrj0NgB2TY/ts
+#EXTINF:-1 group-title="ABERTOS",BAND RJ SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_UERD4Rn35YzvA5wWiCt1c/ts
+#EXTINF:-1 group-title="ABERTOS",BAND SERGIPE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699fIVRQn14ovKanGwBM8T7w/ts
+#EXTINF:-1 group-title="ABERTOS",BAND SP FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699-C9Np3TSl6_kvoYXLJEfE/ts
+#EXTINF:-1 group-title="ABERTOS",BAND SP HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z5L5ijPoM1xH09CZuaYLFQ/ts
+#EXTINF:-1 group-title="ABERTOS",BAND SP SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691IStQkh2akC7DpSTJdKr-o/ts
+#EXTINF:-1 group-title="BERTOS",BAND TV GOIANIA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6917rnCKX9l7Nf8pWFINWxvs/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO ALTAMIRA SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695Or-8RfESunAht3SQLvUAg/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO FLORIANOPOLIS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z9dVbg816t9gAcLmEZ0pO8/ts
+#EXTINF:-1 group-title="BERTOS",Globo GO - TV Anhanguera Goiania SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690ISNXKXLqwQuKL4j4fWSrI/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO INTER TV GRANDE MINAS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-VABMUNpgegUYbgP-GDdR4/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO ITACOATIARA FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-IWHpvIfm3ATpN4HWWiQvw/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO MINAS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6966jU6M6zkwRKFra4PrRyb4/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO MINAS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xMRricY1_vVDBlqIfUpwNg/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO NSC TV JOINVILLE FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zrOog_wG4IXAOZEIEh-5d8/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO NSC TV JOINVILLE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_H-UyDaCeXxGxBaDcNf2XI/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO NSC TV JOINVILLE SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69ywj4faNEnPsWJWvHY1MvFE/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RBS TV PELOTAS FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690WhOaqo1b5CegxySBGBmUE/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RBS TV PELOTAS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693UMRc0ff2sxdOQnL35S2Ts/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RBS TV PELOTAS SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696j2uD4EpcEJ22MnpdjDfgQ/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RJ FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691rAuDz4HolxgCQar5ohU0M/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RPC CURITIBA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6952Zuu-BMlb5R050pLzgzCA/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RPC CURITIBA SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697NZlNlgGvDwhWEa2xoQN6c/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RPC TV PARANAVAI FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_JRbPN2x41JI1W7zFr1IlY/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RPC TV PARANAVAI HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_U-RBTBFHeih8a-m-yFeaU/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO RPC TV PARANAVAI SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xIgg6nsShIs1-Wtyf6wf4g/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO SP 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690ogVMCLpCMiYZ3_RTsj-JI/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO SP FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wkHxWNEzRBN4iocm52wU6w/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO SP HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697tgJgUYa63qecbukwOy04Q/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO SP SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xe8cnA_UCo0hFrfINbWZ88/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV ANHANGUERA GOIANIA FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yHcf0pApesEwBEfVcV1Bqg/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV ANHANGUERA GOIANIA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x7Ys15NoQLKClLj0IYXyz4/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV ANHANGUERA GOIANIA SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xg221wg1hK1LiKBo9akK2w/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV SANTA CRUZ FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695OeYAd4vFtvmfZI7fH9Kao/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV SANTA CRUZ HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699loffgPRpk9OiyDWLaOVRA/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV SANTA CRUZ SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696Go4nAHWr6qZI5a-iaW1jw/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV SUBAE FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690GjlOKtDGQ7NhRnIeCfGAY/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV SUBAE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wrfcOWXI5Y0LbvGDJRoc20/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV SUBAE SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695-zJ71vy8AfjYFOcaH-Y4E/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO TV VANGUARDA TAUBATE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_bm1aWWAspqf7D97HtGvLY/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO UBERABA SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692hj2y2_bkksq1jq_Pe1tZU/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO URUGUAIANA FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692Sf2Y4bXuir31we54tjy_0/ts
+#EXTINF:-1 group-title="BERTOS",GLOBO VILHENA FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693uaUTjdne8vpmTkSnMjsPo/ts
+#EXTINF:-1 group-title="BERTOS",RECORD BAHIA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690RjTs7QwR-GdMB-VjvfJfY/ts
+#EXTINF:-1 group-title="BERTOS",RECORD BAHIA SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697Xb7vRiarrk0LtDcPZ112M/ts
+#EXTINF:-1 group-title="BERTOS",RECORD RJ FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691XjlCNdut2e5k8M92RAZWA/ts
+#EXTINF:-1 group-title="BERTOS",RECORD RJ HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691V4X3aYvIkEdqRbYC06F5w/ts
+#EXTINF:-1 group-title="BERTOS",RECORD RS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692GlryR-PiOG7y_aqGah_Xo/ts
+#EXTINF:-1 group-title="BERTOS",RECORD SP FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69w_wAuoKsh2zVp7nlNuZALY/ts
+#EXTINF:-1 group-title="BERTOS",RECORD SP SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692Q8pR74EQ3115h5Fkzb0tw/ts
+#EXTINF:-1 group-title="BERTOS",SBT BAHIA
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695h5AEMsginMdSUxVTLb9x4/ts
+#EXTINF:-1 group-title="BERTOS",SBT MINAS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692ijUGABWHOqLcB1FOYdfT8/ts
+#EXTINF:-1 group-title="BERTOS",SBT RJ HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xhf7rPbfFikUNuwJ_IFfr8/ts
+#EXTINF:-1 group-title="BERTOS",SBT SILVIO SANTOS
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699Z4GTeBFdmwBykq5BiGHj8/ts
+#EXTINF:-1 group-title="BERTOS",SBT TV ALTEROSA HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z6zrrYyw1T30TEUOgpxfpM/ts
+
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ANIMAL PLANET 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wMwf7T78D865c_c3pd26XM/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ARTE 1 FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696sMMD_i_6s-_vVkt5zsY5w/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ARTE 1 HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694J05hxzhQTy931iiMjjOdM/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ARTE 1 SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696OPKJd9w_Q-kMvk_pfHuEY/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",BIS 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wjheUy9mD7h5VHDrx-sXqA/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",CANAL UOL FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6958C0u-ze8BEyPxvdM9_ODw/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",CANAL UOL HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699XSg9ioYENK7smU-z_NTWk/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",CANAL UOL SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6929zU2LtQ4ZYKGdZXXTRBEI/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",CURTA! 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697U3frKTSly0E14ogYxfQwE/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695LUDm36xSm-6fijNUBBtY8/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xv2pwiJ_g9E0NcbgxvAfSE/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692KnfosrD1xwknbClcxcIKg/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699jdrDX9VYzTAVCP6sFO5Io/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699JoOVTgbDvWwzIPZczpbt4/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY H&H 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696r7WSbMb9C9R-du0ScjABo/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690uWKyKUJHrfOTPZzj_FP9s/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wSm3RPSR_9YNJroQGlG6_Y/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY H&H SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-ds2iFgcbOC_CCyUSnPw8o/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY SCIENCE 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_LoilPx8wxUW9FVIplUAn8/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6946y93W1EFd2R_zixaqR2AM/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699A-k64Gwcfsr0M7zBH0h74/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695o4VfwqKXEXNVk909_vdcQ/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xh5otMYS6qh-bs3UAGeLmo/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695XjfNtQO1PkYeCD9fm2zOk/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695xrYpveuiNZxryxhN0gvyE/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATHER 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698r9ytk4jlqQJ_p7Z4Nw9wc/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATHER FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6985jYiWeI-9h4Oqh3H5ymRc/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATHER HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6972hABqL9O2Q0Ph-uqLK6Ds/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATHER SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695TXPVPdlE-daH6JcuMmwoo/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TLC FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696Eg5OpX4-xEmaZL_Hy6SwE/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TLC HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696xvJ3CU9v4AiJhF0-ZQN5Q/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TLC SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693LV91tlR8r_R5n_FXJ8JiI/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TURBO 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x-wN4MwBpclugoCat8Spog/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696auIk42UalceyGMBAH6U84/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690Bm1N2uOCdwRUbdbNBQrDs/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-Tik1-qnzuVBsaWVmxlZI0/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY WORLD 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6984cV5qHiRu_7wqxBus5qIw/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY WORLD FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-GXBwEybqprSrdjYTUKquc/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zCfyIRnQ0ujSTJtifbGI7Q/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698dX2FJ3vlDaX6ajoJLZrAw/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",E! 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6911KEtKHtxoCjEeBlaeeuH8/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",FISH TV 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z4k2kgv-QNZHhkpmrorIZk/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",FOOD NETWORK 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693wa24TP7g8zRGkn9Cjb5lw/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",FOOD NETWORK
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6927_k26hNsFaMqSiWpB6f_g/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",H2 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695OoJSHCdywff97jHBKHvBA/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HGTV 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694rM_Dcvq8Dusw8H2iKm0z4/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HISTORY CHANNEL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_MKx5BKz-K8j3SdHOq7oVY/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zygwU031UJaQpcY2h5RnkA/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z6rKM2Hykijd5RufXLTj0k/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr699WBmqoSv0LoARgbqxe1js8/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HISTORY FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69z2OCxscMhcupnOiFK3chHM/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",HOLLYWOOD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_hEMAZExsl_mTCj4-9i8x4/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ID:INVESTIGAÇÃO DISCOVERY 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-DxMoiAGT844LTygZ27Wqk/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ID:INVESTIGAÇÃO DISCOVERY FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wuCqC4HeJHCGeFiAoBBmpI/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ID:INVESTIGAÇÃO DISCOVERY HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690kVjZNa--U8h4gxx0EjYOI/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",ID:INVESTIGAÇÃO DISCOVERY SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_o8WwAUXsAG_lEsG2Sv6FU/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",INVESTIGACAO DISCOVERY FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yQn5KHHdYTdEHcEVsaJunQ/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",INVESTIGACAO DISCOVERY HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692nl5wpQDLSdbohcHjjACy0/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",INVESTIGACAO DISCOVERY SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wdir6GUWLe-OE7ZbUl3lh0/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",MODO VIAGEM 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zJlE3hbv-3lpxmnEINDs9w/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",MODO VIAGEM SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr694BX0Lyh97NZ-rl79z8eSBw/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Motor Vision Tv 
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692Nk--XV5vPmw8g5e5YEjtw/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Music Box Brazil 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr693q1c7f76FtdcjZcyLNLXPs/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",NFL
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yTqLr745Iu5k-qxbrYpGwA/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Sic Internacional FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695Ks4rO7NG9qjVHIFMaeXy0/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Sic Internacional HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698EW1X5XOXlzxsFS0thV-1c/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Sic Internacional SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69weDLYInnHVI_k6yCIF1W_Q/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Tvi Reality Camera 01
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-T71CQsLx9082qzAZBZnQs/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Tvi Reality Camera 02
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zJv4Ebcaqw_8zabQKG1nEM/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Tvi Reality Camera 03
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wtjPul4SMk3tHZLvL1b4Ys/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Tvi Reality Camera 04
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_p6xa715_YSC94CHAAhSyo/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Tvi Reality HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr690sevgK1gPgCwotDTaec5Rs/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Tvi Reality Mosaico HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698YMBGJEXJEUL9-lkek4Bzk/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",WOOHOO 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691M9G1VuMacDS8Q3vDb2nco/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Woohoo FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_OD6uq0HYgfRLjABrDDyKE/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Woohoo HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr696p4hDv37YSVecEYnd9khVg/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",WOOHOO HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr698mtSfVb51XhFUg9eJqT-Ic/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",WOOHOO SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69-NaAQrNhUsNHFJZpk58eac/ts
+#EXTINF:-1 group-title="VARIEDADES E DOCUMENTÁRIOS",Woohoo SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695X7llhHiUyseBBf6i5RJKQ/ts
+
+#EXTINF:-1 group-title="NOTÍCIAS",Bbc News FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yBqDkCIV_0dwp9nctR7XT4/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Bbc News HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695pPHOmO3dvTcqCMNIB6QQw/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Bbc News SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69592yfDk2OKnRQEw2p-UoVI/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN BRASIL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692tIn1Xdo9YvZNN4r4cT6rc/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Cnn HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69xv2heLj3REFqQ8e1TgIdkA/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN INTERNACIONAL 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69zFnIVia51-N5KUWSSh2obs/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Cnn Internacional FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692l9atx0EkARpv35NSg4fQU/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Cnn Internacional HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691cqkxsROSX2_8eq_koa5cY/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Cnn Internacional SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695wReCGxVRJnaKmFuH5gguk/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN MONEY 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6920ibRRNtrWrqz365G1kWwQ/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN MONEY FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr6939OxpReN68JmVXWJOUzyCg/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN MONEY HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr695DqZccudSzhWcCJviwVny8/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN MONEY SD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69x5U3iFMs-vsAofFHyIOy-o/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Cnn Portugal FHD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69yx5PSacwcAKhfCGMwxI_BU/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Cnn Portugal HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69_rl6EtRLmr6hQo3mjU_DZQ/ts
+#EXTINF:-1 group-title="NOTÍCIAS",CNN
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr692DWdoLsi11mFm4IswZVUog/ts
+#EXTINF:-1 group-title="NOTÍCIAS",GLOBO NEWS HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697qVBUhdJiD2V2a63k5lmuw/ts
+#EXTINF:-1 group-title="NOTÍCIAS",JOVEM PAN NEWS 4k
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr697WcQvwL98zuk4kilHQYgxU/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Record News HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr69wfp8HQfvKpwmLZLAzLX588/ts
+#EXTINF:-1 group-title="NOTÍCIAS",Rtp Noticias HD
+http://svv.cpds.online:80/play/jz4N5slvyH1Z5_SIXnr691wxockWSf6DkeF2R8qV57M/ts
