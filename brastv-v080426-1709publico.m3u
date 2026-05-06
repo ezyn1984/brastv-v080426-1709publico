@@ -1,542 +1,546 @@
-https://toptv365.com/get.php?username=9hHnfIakwx&password=Wcc9vvPeSJ&type=m3u_plus&output=ts
-ID: 441a0s3kgz7c
-expira: 11/05 19:08 hs
+#EXTINF:-1 tvg-id="BigBrotherBrasil" tvg-name="Casa do Patrão 1" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 1
+http://matinho.shop:80/live/Ednacademia/9338376877/1271892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 2" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 2
+http://matinho.shop:80/live/Ednacademia/9338376877/1278716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 3" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 3
+http://matinho.shop:80/live/Ednacademia/9338376877/1278717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 4" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 4
+http://matinho.shop:80/live/Ednacademia/9338376877/1278718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 5" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 5
+http://matinho.shop:80/live/Ednacademia/9338376877/1278719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 6" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 6
+http://matinho.shop:80/live/Ednacademia/9338376877/1278720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 7" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 7
+http://matinho.shop:80/live/Ednacademia/9338376877/1278721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão 8" tvg-logo="https://st1.binctv.org/icon/1829-s-1777327365414.png" group-title="CASA DO PATRÃO",Casa do Patrão 8
+http://matinho.shop:80/live/Ednacademia/9338376877/1271891.m3u8
+
+#EXTINF:-1 tvg-id="band.goiania.br" tvg-name="Band TV Goiânia " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="ABERTOS",Band TV Goiânia 
+http://matinho.shop:80/live/Ednacademia/9338376877/20985.m3u8
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="ABERTOS",Globo SP FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/62169.m3u8
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="ABERTOS",Globo SP HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1948.m3u8
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="ABERTOS",Globo SP
+http://matinho.shop:80/live/Ednacademia/9338376877/1947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Anhanguera.png" group-title="ABERTOS",Globo TV Anhanguera FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Anhanguera.png" group-title="ABERTOS",Globo TV Anhanguera HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Anhanguera.png" group-title="ABERTOS",Globo TV Anhanguera
+http://matinho.shop:80/live/Ednacademia/9338376877/1950.m3u8
+#EXTINF:-1 tvg-id="br#record-goias" tvg-name="Record GO FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="ABERTOS",Record GO FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/914179.m3u8
+#EXTINF:-1 tvg-id="br#record-goias" tvg-name="Record GO HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record%20HD.png" group-title="ABERTOS",Record GO HD
+http://matinho.shop:80/live/Ednacademia/9338376877/10932.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Serra Dourada GO HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="ABERTOS",SBT TV Serra Dourada GO HD 
+http://matinho.shop:80/live/Ednacademia/9338376877/20984.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Serra Dourada GO " tvg-logo="http://channelart.8b90287dn2.online/images/logos/SBT.png" group-title="ABERTOS",SBT TV Serra Dourada GO 
+http://matinho.shop:80/live/Ednacademia/9338376877/72358.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/A%26E%20HD.png" group-title="FILMES & SERIES",A&E FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1806.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/A%26E%20HD.png" group-title="FILMES & SERIES",A&E HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://channelart.8b90287dn2.online/images/logos/A%26E.png" group-title="FILMES & SERIES",A&E
+http://matinho.shop:80/live/Ednacademia/9338376877/2045.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC%20HD.png" group-title="FILMES & SERIES",AMC FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC%20HD.png" group-title="FILMES & SERIES",AMC HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" group-title="FILMES & SERIES",AMC
+http://matinho.shop:80/live/Ednacademia/9338376877/2047.m3u8
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20HD.png" group-title="FILMES & SERIES",AXN FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20HD.png" group-title="FILMES & SERIES",AXN HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" group-title="FILMES & SERIES",AXN
+http://matinho.shop:80/live/Ednacademia/9338376877/2053.m3u8
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="FILMES & SERIES",Canal Brasil FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1908.m3u8
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="FILMES & SERIES",Canal Brasil HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2067.m3u8
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="Canal Brasil" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Brasil.png" group-title="FILMES & SERIES",Canal Brasil
+http://matinho.shop:80/live/Ednacademia/9338376877/2066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cinemax.png" group-title="FILMES & SERIES",Cinemax FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cinemax.png" group-title="FILMES & SERIES",Cinemax HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cinemax.png" group-title="FILMES & SERIES",Cinemax
+http://matinho.shop:80/live/Ednacademia/9338376877/2073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Film%26Arts.png" group-title="FILMES & SERIES",Film & Arts
+http://matinho.shop:80/live/Ednacademia/9338376877/2280.m3u8
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO.png" group-title="FILMES & SERIES",HBO FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1891.m3u8
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO.png" group-title="FILMES & SERIES",HBO HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2144.m3u8
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO.png" group-title="FILMES & SERIES",HBO
+http://matinho.shop:80/live/Ednacademia/9338376877/2139.m3u8
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%202%20HD.png" group-title="FILMES & SERIES",HBO 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1890.m3u8
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%202%20HD.png" group-title="FILMES & SERIES",HBO 2 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2141.m3u8
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%202.png" group-title="FILMES & SERIES",HBO 2
+http://matinho.shop:80/live/Ednacademia/9338376877/2140.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Family%20HD.png" group-title="FILMES & SERIES",HBO Family FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1839.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Family%20HD.png" group-title="FILMES & SERIES",HBO Family HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Family.png" group-title="FILMES & SERIES",HBO Family
+http://matinho.shop:80/live/Ednacademia/9338376877/2142.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Mundi.png" group-title="FILMES & SERIES",HBO Mundi FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1845.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Mundi.png" group-title="FILMES & SERIES",HBO Mundi HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2158.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Mundi.png" group-title="FILMES & SERIES",HBO Mundi
+http://matinho.shop:80/live/Ednacademia/9338376877/2157.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Mundi.png" group-title="FILMES & SERIES",HBO Mundi
+http://matinho.shop:80/live/Ednacademia/9338376877/1202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Plus.png" group-title="FILMES & SERIES",HBO Plus FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Plus.png" group-title="FILMES & SERIES",HBO Plus HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Plus.png" group-title="FILMES & SERIES",HBO Plus
+http://matinho.shop:80/live/Ednacademia/9338376877/2145.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Pop.png" group-title="FILMES & SERIES",HBO POP FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1847.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Pop.png" group-title="FILMES & SERIES",HBO POP HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2162.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Pop.png" group-title="FILMES & SERIES",HBO POP
+http://matinho.shop:80/live/Ednacademia/9338376877/2161.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Signature%20HD.png" group-title="FILMES & SERIES",HBO Signature FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1841.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Signature%20HD.png" group-title="FILMES & SERIES",HBO Signature HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2148.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Signature.png" group-title="FILMES & SERIES",HBO Signature
+http://matinho.shop:80/live/Ednacademia/9338376877/2147.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Xtreme.png" group-title="FILMES & SERIES",HBO Xtreme FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1846.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Xtreme.png" group-title="FILMES & SERIES",HBO Xtreme HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2160.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Xtreme.png" group-title="FILMES & SERIES",HBO Xtreme
+http://matinho.shop:80/live/Ednacademia/9338376877/2159.m3u8
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="FILMES & SERIES",Megapix FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1848.m3u8
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="FILMES & SERIES",Megapix HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2164.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix.png" group-title="FILMES & SERIES",Megapix
+http://matinho.shop:80/live/Ednacademia/9338376877/2163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 1 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/901876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 1 HD 
+http://matinho.shop:80/live/Ednacademia/9338376877/898826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 1
+http://matinho.shop:80/live/Ednacademia/9338376877/898822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/901877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 2 HD 
+http://matinho.shop:80/live/Ednacademia/9338376877/898827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 2
+http://matinho.shop:80/live/Ednacademia/9338376877/898823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 3 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/901878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 3 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/898828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 3
+http://matinho.shop:80/live/Ednacademia/9338376877/898824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 4 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/901880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 4 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/901879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="FILMES & SERIES",Paramount+ 4 
+http://matinho.shop:80/live/Ednacademia/9338376877/898825.m3u8
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Prime%20Box%20Brazil%20HD.png" group-title="FILMES & SERIES",Prime Box Brasil FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1860.m3u8
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Prime%20Box%20Brazil%20HD.png" group-title="FILMES & SERIES",Prime Box Brasil HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Prime%20Box%20Brazil.png" group-title="FILMES & SERIES",Prime Box Brasil
+http://matinho.shop:80/live/Ednacademia/9338376877/2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video FHD 1
+http://matinho.shop:80/live/Ednacademia/9338376877/77850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video HD 1
+http://matinho.shop:80/live/Ednacademia/9338376877/928881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video 1
+http://matinho.shop:80/live/Ednacademia/9338376877/905452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video FHD 2
+http://matinho.shop:80/live/Ednacademia/9338376877/77859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video HD 2
+http://matinho.shop:80/live/Ednacademia/9338376877/928883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video 2
+http://matinho.shop:80/live/Ednacademia/9338376877/928884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video 03
+http://matinho.shop:80/live/Ednacademia/9338376877/77851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="FILMES & SERIES",Prime Video 04
+http://matinho.shop:80/live/Ednacademia/9338376877/77858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel
+http://matinho.shop:80/live/Ednacademia/9338376877/2068.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png" group-title="FILMES & SERIES",Sony Movies FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1280670.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png" group-title="FILMES & SERIES",Sony Movies HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1280671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png" group-title="FILMES & SERIES",Sony Movies
+http://matinho.shop:80/live/Ednacademia/9338376877/1280672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Space%20HD.png" group-title="FILMES & SERIES",Space FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Space%20HD.png" group-title="FILMES & SERIES",Space HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2217.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Space.png" group-title="FILMES & SERIES",Space
+http://matinho.shop:80/live/Ednacademia/9338376877/2216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Studio%20Universal.png" group-title="FILMES & SERIES",Studio Universal
+http://matinho.shop:80/live/Ednacademia/9338376877/2221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TCM.png" group-title="FILMES & SERIES",TCM FHD 
+http://matinho.shop:80/live/Ednacademia/9338376877/47726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES & SERIES",TCM
+http://matinho.shop:80/live/Ednacademia/9338376877/2225.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="FILMES & SERIES",Telecine Action FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1901.m3u8
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="FILMES & SERIES",Telecine Action HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2227.m3u8
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="FILMES & SERIES",Telecine Action
+http://matinho.shop:80/live/Ednacademia/9338376877/2226.m3u8
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="FILMES & SERIES",Telecine Cult FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1866.m3u8
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="FILMES & SERIES",Telecine Cult HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2229.m3u8
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="FILMES & SERIES",Telecine Cult
+http://matinho.shop:80/live/Ednacademia/9338376877/2228.m3u8
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="FILMES & SERIES",Telecine Fun FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1902.m3u8
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="FILMES & SERIES",Telecine Fun HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2231.m3u8
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="FILMES & SERIES",Telecine Fun
+http://matinho.shop:80/live/Ednacademia/9338376877/2230.m3u8
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="FILMES & SERIES",Telecine Pipoca FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1903.m3u8
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="FILMES & SERIES",Telecine Pipoca HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2233.m3u8
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="FILMES & SERIES",Telecine Pipoca
+http://matinho.shop:80/live/Ednacademia/9338376877/2232.m3u8
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="FILMES & SERIES",Telecine Premium FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1904.m3u8
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="FILMES & SERIES",Telecine Premium HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2235.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="FILMES & SERIES",Telecine Premium
+http://matinho.shop:80/live/Ednacademia/9338376877/2234.m3u8
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="FILMES & SERIES",Telecine Touch FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1905.m3u8
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="FILMES & SERIES",Telecine Touch HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2237.m3u8
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="FILMES & SERIES",Telecine Touch
+http://matinho.shop:80/live/Ednacademia/9338376877/2236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas FHD 
+http://matinho.shop:80/live/Ednacademia/9338376877/908272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas HD
+http://matinho.shop:80/live/Ednacademia/9338376877/908273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas 
+http://matinho.shop:80/live/Ednacademia/9338376877/908274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series
+http://matinho.shop:80/live/Ednacademia/9338376877/2243.m3u8
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy%20HD.png" group-title="FILMES & SERIES",USA FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1864.m3u8
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy%20HD.png" group-title="FILMES & SERIES",USA HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2215.m3u8
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="USA" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy.png" group-title="FILMES & SERIES",USA
+http://matinho.shop:80/live/Ednacademia/9338376877/2214.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Warner%20Channel%20HD.png" group-title="FILMES & SERIES",Warner Channel FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Warner%20Channel%20HD.png" group-title="FILMES & SERIES",Warner Channel HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2265.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Warner%20Channel.png" group-title="FILMES & SERIES",Warner Channel
+http://matinho.shop:80/live/Ednacademia/9338376877/2264.m3u8
+
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2035.m3u8
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2038.m3u8
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV
+http://matinho.shop:80/live/Ednacademia/9338376877/2218.m3u8
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV 4k" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV 4k
+http://matinho.shop:80/live/Ednacademia/9338376877/13069.m3u8
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1917.m3u8
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2036.m3u8
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2
+http://matinho.shop:80/live/Ednacademia/9338376877/2219.m3u8
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1918.m3u8
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2037.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3
+http://matinho.shop:80/live/Ednacademia/9338376877/2220.m3u8
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPORTES",ESPN FHD 
+http://matinho.shop:80/live/Ednacademia/9338376877/1883.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPORTES",ESPN HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil.png" group-title="ESPORTES",ESPN
+http://matinho.shop:80/live/Ednacademia/9338376877/2104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPORTES",ESPN 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1884.m3u8
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPORTES",ESPN 2 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPORTES",Espn 2
+http://matinho.shop:80/live/Ednacademia/9338376877/2101.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPORTES",ESPN 3 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPORTES",ESPN 3 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPORTES",ESPN 3
+http://matinho.shop:80/live/Ednacademia/9338376877/2102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPORTES",ESPN 4 FHD 
+http://matinho.shop:80/live/Ednacademia/9338376877/1887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPORTES",ESPN 4 HD 
+http://matinho.shop:80/live/Ednacademia/9338376877/2122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPORTES",ESPN 4
+http://matinho.shop:80/live/Ednacademia/9338376877/2121.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPORTES",ESPN 5 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPORTES",ESPN 5 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2124.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPORTES",ESPN 5
+http://matinho.shop:80/live/Ednacademia/9338376877/2123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1277947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE TV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1277946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redbull TV" tvg-logo="https://play-lh.googleusercontent.com/9h0NQg2_Pwrb7_bWfzEYLiY-0Nfnz4lmPZQvBOvOtzY2gAiHVONfEMujrydFPoch-vg=w256" group-title="ESPORTES",Redbull TV
+http://matinho.shop:80/live/Ednacademia/9338376877/1280675.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1812.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2060.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports.png" group-title="ESPORTES",Band Sports
+http://matinho.shop:80/live/Ednacademia/9338376877/2059.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1880.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2076.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate
+http://matinho.shop:80/live/Ednacademia/9338376877/2075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nsports 1 " tvg-logo="https://i.postimg.cc/qRHJMVhB/Photoroom-20250115-210723.png" group-title="ESPORTES",Nsports 1 
+http://matinho.shop:80/live/Ednacademia/9338376877/75611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nsports 2" tvg-logo="https://i.postimg.cc/qRHJMVhB/Photoroom-20250115-210723.png" group-title="ESPORTES",Nsports 2
+http://matinho.shop:80/live/Ednacademia/9338376877/75612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nsports 3" tvg-logo="https://i.postimg.cc/qRHJMVhB/Photoroom-20250115-210723.png" group-title="ESPORTES",Nsports 3
+http://matinho.shop:80/live/Ednacademia/9338376877/75613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 1 FHD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 1 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/903009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 1 HD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 1 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/903012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 1" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 1
+http://matinho.shop:80/live/Ednacademia/9338376877/973563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 2 FHD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/903011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 2" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 2
+http://matinho.shop:80/live/Ednacademia/9338376877/903013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 2 HD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 2 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/903010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 3 FHD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 3 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/903018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 3 HD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 3 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/903019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 3" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 3
+http://matinho.shop:80/live/Ednacademia/9338376877/903020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty  Net 4 FHD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty  Net 4 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/903021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 4 HD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 4 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/903022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 4" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES",Sporty Net 4
+http://matinho.shop:80/live/Ednacademia/9338376877/903023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 1 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 1 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 2 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 3 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 3 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2390.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="DAZN 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 4 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 4 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2396.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="DAZN 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 5 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2405.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="DAZN 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 5 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2402.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="DAZN 6 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 6 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/2411.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="DAZN 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="ESPORTES",DAZN 6 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%201.png" group-title="ESPORTES",Eurosport 1
+http://matinho.shop:80/live/Ednacademia/9338376877/1536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%202.png" group-title="ESPORTES",Eurosport 2
+http://matinho.shop:80/live/Ednacademia/9338376877/1537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fight%20Network.png" group-title="ESPORTES",Fight Sports HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Off.png" group-title="ESPORTES",OFF FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1858.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Off.png" group-title="ESPORTES",OFF HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2183.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Off.png" group-title="ESPORTES",OFF
+http://matinho.shop:80/live/Ednacademia/9338376877/2182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xsports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Xsports_logo.png/960px-Xsports_logo.png" group-title="ESPORTES",Xsports FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1270005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xsports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Xsports_logo.png/960px-Xsports_logo.png" group-title="ESPORTES",Xsports HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1270006.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%20Clubes%20HD.png" group-title="ESPORTES",Premiere Clubes FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1898.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%20Clubes%20HD.png" group-title="ESPORTES",Premiere Clubes HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%20Clubes.png" group-title="ESPORTES",Premiere Clubes
+http://matinho.shop:80/live/Ednacademia/9338376877/2198.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes 4k" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%20Clubes%20HD.png" group-title="ESPORTES",Premiere Clubes 4k
+http://matinho.shop:80/live/Ednacademia/9338376877/1277.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%20Clubes.png" group-title="ESPORTES",Premiere Clubes Alternativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%202.png" group-title="ESPORTES",Premiere 2 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%202.png" group-title="ESPORTES",Premiere 2 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%202.png" group-title="ESPORTES",Premiere 2
+http://matinho.shop:80/live/Ednacademia/9338376877/904121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%202.png" group-title="ESPORTES",Premiere 2 Alternativo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%202.png" group-title="ESPORTES",Premiere 2 Alternativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%203.png" group-title="ESPORTES",Premiere 3 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%203.png" group-title="ESPORTES",Premiere 3 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%203.png" group-title="ESPORTES",Premiere 3
+http://matinho.shop:80/live/Ednacademia/9338376877/2188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%203.png" group-title="ESPORTES",Premiere 3 Alternativo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%203.png" group-title="ESPORTES",Premiere 3 Alternativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%204.png" group-title="ESPORTES",Premiere 4 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%204.png" group-title="ESPORTES",Premiere 4 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%204.png" group-title="ESPORTES",Premiere 4
+http://matinho.shop:80/live/Ednacademia/9338376877/2190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%204.png" group-title="ESPORTES",Premiere 4 Alternativo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%204.png" group-title="ESPORTES",Premiere 4 Alternativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="ESPORTES",Premiere 5 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="ESPORTES",Premiere 5 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="ESPORTES",Premiere 5
+http://matinho.shop:80/live/Ednacademia/9338376877/2192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="ESPORTES",Premiere 5 Alternativo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/1276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="ESPORTES",Premiere 5 Alternativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%206.png" group-title="ESPORTES",Premiere 6 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%206.png" group-title="ESPORTES",Premiere 6 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%206.png" group-title="ESPORTES",Premiere 6
+http://matinho.shop:80/live/Ednacademia/9338376877/2194.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%206.png" group-title="ESPORTES",Premiere 6 Alternativo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/7945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%206.png" group-title="ESPORTES",Premiere 6 Alte
+rnativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%207.png" group-title="ESPORTES",Premiere 7 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%207.png" group-title="ESPORTES",Premiere 7 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%207.png" group-title="ESPORTES",Premiere 7
+http://matinho.shop:80/live/Ednacademia/9338376877/2196.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%207.png" group-title="ESPORTES",Premiere 7 Alternativo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/7946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%207.png" group-title="ESPORTES",Premiere 7 Alternativo
+http://matinho.shop:80/live/Ednacademia/9338376877/1161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="ESPORTES",Premiere 8
+http://matinho.shop:80/live/Ednacademia/9338376877/914936.m3u8
 
 
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL FILMES" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="FILMES E SÉRIES",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="FILMES E SÉRIES",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="FILMES E SÉRIES",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="Adult Swim HD" tvg-name="AdultSwim HD" tvg-logo="https://koratv.app/logos/br/adult-swim-us.png" group-title="FILMES E SÉRIES",AdultSwim HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59100
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://koratv.app/logos/br/a-and-e-br.png" group-title="FILMES E SÉRIES",A&E HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59034
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://koratv.app/logos/br/amc-pt.png" group-title="FILMES E SÉRIES",AMC HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59035
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://koratv.app/logos/br/axn-br.png" group-title="FILMES E SÉRIES",AXN HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59038
-#EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-name="Canal Brasil" tvg-logo="https://koratv.app/logos/br/canal-brasil-br.png" group-title="FILMES E SÉRIES",Canal Brasil
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59105
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="Canal Sony HD" tvg-logo="https://koratv.app/logos/br/Sony_Channel.png" group-title="FILMES E SÉRIES",Canal Sony HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59041
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://koratv.app/logos/br/cine-canal-br.png" group-title="FILMES E SÉRIES",Cinecanal HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59042
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax HD" tvg-logo="https://koratv.app/logos/br/cinemax-br.png" group-title="FILMES E SÉRIES",Cinemax HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59043
-#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="Film & Arts HD" tvg-logo="https://koratv.app/logos/br/film-and-arts-lam.png" group-title="FILMES E SÉRIES",Film & Arts HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59054
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://koratv.app/logos/br/fx-us.png" group-title="FILMES E SÉRIES",FX HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59058
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://koratv.app/logos/br/hbo-br.png" group-title="FILMES E SÉRIES",HBO HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59064
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://koratv.app/logos/br/hbo-2-br.png" group-title="FILMES E SÉRIES",HBO 2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59062
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://koratv.app/logos/br/hbo-family-br.png" group-title="FILMES E SÉRIES",HBO Family HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59063
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi HD" tvg-logo="https://koratv.app/logos/br/hbo-mundi-br.png" group-title="FILMES E SÉRIES",HBO Mundi HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59065
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO Plus HD" tvg-logo="https://koratv.app/logos/br/hbo-plus-br.png" group-title="FILMES E SÉRIES",HBO Plus HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59066
-#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO POP HD" tvg-logo="https://koratv.app/logos/br/hbo-pop-br.png" group-title="FILMES E SÉRIES",HBO POP HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59067
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="https://koratv.app/logos/br/hbo-signature-br.png" group-title="FILMES E SÉRIES",HBO Signature HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59068
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-xtreme-br.png" group-title="FILMES E SÉRIES",HBO Xtreme HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59069
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+ UHD" tvg-logo="https://koratv.app/logos/br/hbo-plus-br.png" group-title="FILMES E SÉRIES",HBO+ UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59148
-#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="Megapix HD" tvg-logo="https://koratv.app/logos/br/megapix-br.png" group-title="FILMES E SÉRIES",Megapix HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59075
-#EXTINF:-1 tvg-id="Paramount+ 1" tvg-name="Paramount HD" tvg-logo="https://koratv.app/logos/br/paramount-network-br.png" group-title="FILMES E SÉRIES",Paramount HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59081
-#EXTINF:-1 tvg-id="Paramount+ 1" tvg-name="Paramount+ 1" tvg-logo="https://koratv.app/logos/br/Paramount_Plus.png" group-title="FILMES E SÉRIES",Paramount+ 1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/115787
-#EXTINF:-1 tvg-id="Paramount+ 2" tvg-name="Paramount+ 2" tvg-logo="https://koratv.app/logos/br/Paramount_Plus.png" group-title="FILMES E SÉRIES",Paramount+ 2
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/115788
-#EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" tvg-logo="https://koratv.app/logos/br/Paramount_Plus.png" group-title="FILMES E SÉRIES",Paramount+ 3
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/115789
-#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-name="Prime Box HD" tvg-logo="https://koratv.app/logos/br/prime-box-brazil-br.png" group-title="FILMES E SÉRIES",Prime Box HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59082
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space HD" tvg-logo="https://koratv.app/logos/br/space-br.png" group-title="FILMES E SÉRIES",Space HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59085
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://koratv.app/logos/br/star-channel-br.png" group-title="FILMES E SÉRIES",Star Channel HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59086
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD" tvg-name="Studio Universal HD" tvg-logo="https://koratv.app/logos/br/studio-universal-br.png" group-title="FILMES E SÉRIES",Studio Universal HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59087
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD" tvg-logo="https://koratv.app/logos/br/tele-cine-action-br.png" group-title="FILMES E SÉRIES",Telecine Action HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59090
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD" tvg-logo="https://koratv.app/logos/br/tele-cine-cult-br.png" group-title="FILMES E SÉRIES",Telecine Cult HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59091
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD" tvg-logo="https://koratv.app/logos/br/tele-cine-fun-br.png" group-title="FILMES E SÉRIES",Telecine Fun HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59092
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD" tvg-logo="https://koratv.app/logos/br/tele-cine-pipoca-br.png" group-title="FILMES E SÉRIES",Telecine Pipoca HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59093
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD" tvg-logo="https://koratv.app/logos/br/tele-cine-premium-br.png" group-title="FILMES E SÉRIES",Telecine Premium HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59094
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD" tvg-logo="https://koratv.app/logos/br/tele-cine-touch-br.png" group-title="FILMES E SÉRIES",Telecine Touch HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59095
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://koratv.app/logos/br/tnt-br.png" group-title="FILMES E SÉRIES",TNT HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59097
-#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://koratv.app/logos/br/tnt-novelas-lam.png" group-title="FILMES E SÉRIES",TNT NOVELAS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59089
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Series HD" tvg-logo="https://koratv.app/logos/br/tnt-series-br.png" group-title="FILMES E SÉRIES",TNT Series HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59098
-#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="Universal Channel HD" tvg-logo="https://koratv.app/logos/br/universal-tv-br.png" group-title="FILMES E SÉRIES",Universal Channel HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59101
-#EXTINF:-1 tvg-id="USA HD" tvg-name="USA HD" tvg-logo="https://koratv.app/logos/br/usa-br.png" group-title="FILMES E SÉRIES",USA HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59088
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel HD" tvg-logo="https://koratv.app/logos/br/warner-channel-br.png" group-title="FILMES E SÉRIES",Warner Channel HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59103
 
 
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL ESPORTES" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="ESPORTES",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ESPORTES",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ESPORTES",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports" tvg-logo="https://koratv.app/logos/br/band-sports-br.png" group-title="ESPORTES",Band Sports
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58979
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD" tvg-logo="https://koratv.app/logos/br/combate.png" group-title="ESPORTES",Combate HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58980
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://koratv.app/logos/br/dazn-1-es.png" group-title="ESPORTES",DAZN 1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59011
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://koratv.app/logos/br/dazn-2-es.png" group-title="ESPORTES",DAZN 2
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59012
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://koratv.app/logos/br/dazn-3-es.png" group-title="ESPORTES",DAZN 3
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59013
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eleven Sports 1" tvg-logo="https://koratv.app/logos/br/eleven-sports-1-pt.png" group-title="ESPORTES",DAZN Eleven Sports 1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59015
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eleven Sports 2" tvg-logo="https://koratv.app/logos/br/eleven-sports-2-pt.png" group-title="ESPORTES",DAZN Eleven Sports 2
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59016
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eleven Sports 3" tvg-logo="https://koratv.app/logos/br/eleven-sports-3-pt.png" group-title="ESPORTES",DAZN Eleven Sports 3
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59017
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eleven Sports 4" tvg-logo="https://koratv.app/logos/br/eleven-sports-4-pt.png" group-title="ESPORTES",DAZN Eleven Sports 4
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59018
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eleven Sports 5" tvg-logo="https://koratv.app/logos/br/eleven-sports-5-pt.png" group-title="ESPORTES",DAZN Eleven Sports 5
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59019
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eleven Sports 6" tvg-logo="https://koratv.app/logos/br/eleven-sports-6-pt.png" group-title="ESPORTES",DAZN Eleven Sports 6
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59020
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://koratv.app/logos/br/dazn-f1-es.png" group-title="ESPORTES",DAZN F1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59014
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://koratv.app/logos/br/dazn-f1-es.png" group-title="ESPORTES",DAZN F1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59014
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="https://koratv.app/logos/br/espn-lam.png" group-title="ESPORTES",ESPN 1 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58964
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://koratv.app/logos/br/espn-2-lam.png" group-title="ESPORTES",ESPN 2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58965
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://koratv.app/logos/br/espn-3-lam.png" group-title="ESPORTES",ESPN 3 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58966
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://koratv.app/logos/br/espn-4-lam.png" group-title="ESPORTES",ESPN 4 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58967
-#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 HD" tvg-logo="https://koratv.app/logos/br/espn-5-lam.png" group-title="ESPORTES",ESPN 5 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58968
-#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD" tvg-logo="https://koratv.app/logos/br/espn-6-lam.png" group-title="ESPORTES",ESPN 6 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58969
-#EXTINF:-1 tvg-id="" tvg-name="Eurosports 1" tvg-logo="https://koratv.app/logos/br/eurosport-1-uk.png" group-title="ESPORTES",Eurosports 1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59009
-#EXTINF:-1 tvg-id="" tvg-name="Eurosports 2" tvg-logo="https://koratv.app/logos/br/eurosport-2-uk.png" group-title="ESPORTES",Eurosports 2
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59010
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://koratv.app/logos/br/canal-off-br.png" group-title="ESPORTES",OFF HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59080
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES",Premiere Clubes
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58973
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="Premiere 2 HD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES",Premiere 2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58974
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="Premiere 3 HD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES",Premiere 3 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58975
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="Premiere 4 HD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES",Premiere 4 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58976
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="Premiere 5 HD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES",Premiere 5 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58977
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="Premiere 6 HD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES",Premiere 6 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58978
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV 1" tvg-logo="https://koratv.app/logos/br/sportv-br.png" group-title="ESPORTES",SporTV 1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58970
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2" tvg-logo="https://koratv.app/logos/br/sportv2-br.png" group-title="ESPORTES",SporTV 2
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58971
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3" tvg-logo="https://koratv.app/logos/br/sportv3-br.png" group-title="ESPORTES",SporTV 3
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58972
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight" tvg-logo="https://koratv.app/logos/br/ufc-fight-pass-us.png" group-title="ESPORTES",UFC Fight
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/58981
-#EXTINF:-1 tvg-id="Xsports HD" tvg-name="XSports" tvg-logo="https://koratv.app/logos/br/x-sports-br.png" group-title="ESPORTES",XSports
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/115790
 
 
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL UHD" ESPORTES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="ESPORTES UHD",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ESPORTES UHD",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ESPORTES UHD",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports UHD" tvg-logo="https://koratv.app/logos/br/band-sports-br.png" group-title="ESPORTES UHD",Band Sports UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59152
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate UHD" tvg-logo="https://koratv.app/logos/br/combate.png" group-title="ESPORTES UHD",Combate UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59155
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 UHD" tvg-logo="https://koratv.app/logos/br/espn-lam.png" group-title="ESPORTES UHD",ESPN 1 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59160
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 UHD" tvg-logo="https://koratv.app/logos/br/espn-2-lam.png" group-title="ESPORTES UHD",ESPN 2 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59161
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 UHD" tvg-logo="https://koratv.app/logos/br/espn-3-lam.png" group-title="ESPORTES UHD",ESPN 3 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59162
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 UHD" tvg-logo="https://koratv.app/logos/br/espn-4-lam.png" group-title="ESPORTES UHD",ESPN 4 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59163
-#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 UHD" tvg-logo="https://koratv.app/logos/br/espn-5-lam.png" group-title="ESPORTES UHD",ESPN 5 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59164
-#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 UHD" tvg-logo="https://koratv.app/logos/br/espn-6-lam.png" group-title="ESPORTES UHD",ESPN 6 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59165
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes UHD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES UHD",Premiere Clubes UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59129
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="Premiere 2 UHD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES UHD",Premiere 2 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59130
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="Premiere 3 UHD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES UHD",Premiere 3 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59131
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="Premiere 4 UHD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES UHD",Premiere 4 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59132
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="Premiere 5 UHD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES UHD",Premiere 5 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59133
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="Premiere 6 UHD" tvg-logo="https://koratv.app/logos/br/premiere-br.png" group-title="ESPORTES UHD",Premiere 6 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59134
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="Sportv 1 UHD" tvg-logo="https://koratv.app/logos/br/sportv-br.png" group-title="ESPORTES UHD",Sportv 1 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59137
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="Sportv 2 UHD" tvg-logo="https://koratv.app/logos/br/sportv2-br.png" group-title="ESPORTES UHD",Sportv 2 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59138
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="Sportv3 UHD" tvg-logo="https://koratv.app/logos/br/sportv3-br.png" group-title="ESPORTES UHD",Sportv3 UHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59139
 
 
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "GLOBAL SPORTS⚽️" BONUS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="GLOBAL SPORTS >>>BONUS<<<",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="GLOBAL SPORTS >>>BONUS<<<",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="GLOBAL SPORTS >>>BONUS<<<",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Arena Sport 1 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/857
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 BIH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Arena Sport 2 BIH
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/858
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Arena Sport 2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/859
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Arena Sport 4 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/860
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Arena Sport 5 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/861
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD1 F" tvg-logo="http://x12tv.co/A/f1.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT HD1 F
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/862
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD2 F" tvg-logo="http://x12tv.co/A/f2.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT HD2 F
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/863
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD3 F" tvg-logo="http://x12tv.co/A/f3.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT HD3 F
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/864
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX10 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX10 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/865
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX4 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX4 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/866
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX5 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX5 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/867
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX6 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX6 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/868
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX7 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX7 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/869
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX8 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX8 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/870
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX9 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="GLOBAL SPORTS >>>BONUS<<<",beIN SPORT MAX9 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/871
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 1 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/872
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/873
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 3 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 3 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/874
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 4 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 4 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/875
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 5 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 5 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/876
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 6 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 6 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/877
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 7 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 7 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/878
-#EXTINF:-1 tvg-id="" tvg-name="FR Amazon Prime Video 8 HD" tvg-logo="https://e7.pngegg.com/pngimages/304/206/png-clipart-france-ligue-1-football-troyes-ac-sports-league-championnat-national-football-text-logo.png" group-title="GLOBAL SPORTS >>>BONUS<<<",FR Amazon Prime Video 8 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/879
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 1 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 1 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/880
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 10 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 10 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/881
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 2 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/882
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 3 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 3 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/883
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 4 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 4 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/884
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 5 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 5 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/885
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 6 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 6 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/886
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 7 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 7 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/887
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 8 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 8 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/888
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 9 HD" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="GLOBAL SPORTS >>>BONUS<<<",RMC SPORTS 9 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/889
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sport HD" tvg-logo="https://www.sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sharjah Sport HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/890
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports News
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/891
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports Cricket
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/892
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports F1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/893
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports Football
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/894
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS HD ARENA" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",SKY SPORTS HD ARENA
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/895
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports Main Events
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/896
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports Mix
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/897
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",Sky Sports Premier League
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/898
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action FHD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",SuperSport Action FHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/899
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf FHD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",SuperSport Golf FHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/900
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand FHD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",SuperSport Grandstand FHD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/901
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Maximo HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",SuperSport Maximo HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/902
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport MotorSport HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="GLOBAL SPORTS >>>BONUS<<<",SuperSport MotorSport HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/903
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL INFANTIL" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="INFANTIL",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="INFANTIL",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="INFANTIL",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="https://koratv.app/logos/br/baby-tv-us.png" group-title="INFANTIL",BabyTV
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59107
-#EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network HD" tvg-logo="https://koratv.app/logos/br/cartoon-network-br.png" group-title="INFANTIL",Cartoon Network HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59108
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="Cartoonito HD" tvg-logo="https://koratv.app/logos/br/cartoonito-br.png" group-title="INFANTIL",Cartoonito HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59109
-#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="Discovery Kids HD" tvg-logo="https://koratv.app/logos/br/discovery-kids-br.png" group-title="INFANTIL",Discovery Kids HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59110
-#EXTINF:-1 tvg-id="" tvg-name="Disney HD" tvg-logo="https://koratv.app/logos/br/disney-channel-lam.png" group-title="INFANTIL",Disney HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59111
-#EXTINF:-1 tvg-id="" tvg-name="Dreamwork Brasil" tvg-logo="https://koratv.app/logos/br/dreamworks-channel-br.png" group-title="INFANTIL",Dreamwork Brasil
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59118
-#EXTINF:-1 tvg-id="GLOOB HD" tvg-name="Gloob HD" tvg-logo="https://koratv.app/logos/br/gloob-br.png" group-title="INFANTIL",Gloob HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59112
-#EXTINF:-1 tvg-id="GLOOBINHO HD" tvg-name="Gloobinho" tvg-logo="https://koratv.app/logos/br/gloobinho-br.png" group-title="INFANTIL",Gloobinho
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59113
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://koratv.app/logos/br/nick-latino-vod.png" group-title="INFANTIL",Nick HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59114
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="https://koratv.app/logos/br/nick-jr-club-vod.png" group-title="INFANTIL",Nick JR HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59115
-#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="Ra Tim Bum HD" tvg-logo="https://koratv.app/logos/br/tv-ra-tim-bum-br.png" group-title="INFANTIL",Ra Tim Bum HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59116
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="https://koratv.app/logos/br/tooncast-br.png" group-title="INFANTIL",Tooncast
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59117
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL DOCS" E "BRASIL MIX" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTÁRIOS",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTÁRIOS",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTÁRIOS",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="Animal Planet HD" tvg-logo="https://koratv.app/logos/br/animal-planet-lam.png" group-title="DOCUMENTÁRIOS",Animal Planet HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59036
-#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Channel HD" tvg-logo="https://koratv.app/logos/br/discovery-channel-uk.png" group-title="DOCUMENTÁRIOS",Discovery Channel HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59046
-#EXTINF:-1 tvg-id="DISCOVERY HOME&HEALTH HD" tvg-name="Discovery HH HD" tvg-logo="https://koratv.app/logos/br/discovery-home-and-health-hd-lam.png" group-title="DOCUMENTÁRIOS",Discovery HH HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59047
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD" tvg-name="Discovery Science HD" tvg-logo="https://koratv.app/logos/br/discovery-science-us.png" group-title="DOCUMENTÁRIOS",Discovery Science HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59048
-#EXTINF:-1 tvg-id="DISCOVERY THEATER HD" tvg-name="Discovery Theater HD" tvg-logo="https://koratv.app/logos/br/discovery-theater-hd-lam.png" group-title="DOCUMENTÁRIOS",Discovery Theater HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59049
-#EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-name="Discovery Turbo HD" tvg-logo="https://koratv.app/logos/br/discovery-turbo-lat.png" group-title="DOCUMENTÁRIOS",Discovery Turbo HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59050
-#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-name="Discovery World HD" tvg-logo="https://koratv.app/logos/br/discovery-world-hd-ar.png" group-title="DOCUMENTÁRIOS",Discovery World HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59051
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="H2 HD" tvg-logo="https://koratv.app/logos/br/history-channel-2-lam.png" group-title="DOCUMENTÁRIOS",H2 HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59061
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="History HD" tvg-logo="https://koratv.app/logos/br/history-channel-lam.png" group-title="DOCUMENTÁRIOS",History HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59071
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL DOCS" E "BRASIL MIX" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte1" tvg-logo="https://koratv.app/logos/br/arte1-br.png" group-title="VARIEDADES",Arte1
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59037
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="https://koratv.app/logos/br/bis-br.png" group-title="VARIEDADES",BIS HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59040
-#EXTINF:-1 tvg-id="CANAL UOL" tvg-name="Canal UOL" tvg-logo="https://koratv.app/logos/br/UOL_logo.png" group-title="VARIEDADES",Canal UOL
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/113995
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://koratv.app/logos/br/comedy-central-es.png" group-title="VARIEDADES",Comedy Central HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59045
-#EXTINF:-1 tvg-id="CURTA" tvg-name="Curta" tvg-logo="https://koratv.app/logos/br/Curta.png" group-title="VARIEDADES",Curta
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59197
-#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://koratv.app/logos/br/e-entertainment-us.png" group-title="VARIEDADES",E! HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59052
-#EXTINF:-1 tvg-id="FASHION TV" tvg-name="Fashion TV HD" tvg-logo="https://koratv.app/logos/br/fashion-tv-int.png" group-title="VARIEDADES",Fashion TV HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59053
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish TV HD" tvg-logo="https://koratv.app/logos/br/fish-tv-br.png" group-title="VARIEDADES",Fish TV HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59055
-#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network HD" tvg-logo="https://koratv.app/logos/br/food-network-us.png" group-title="VARIEDADES",Food Network HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59056
-#EXTINF:-1 tvg-id="FUTURA HD" tvg-name="Futura" tvg-logo="https://koratv.app/logos/br/futura-br.png" group-title="VARIEDADES",Futura
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59057
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="https://koratv.app/logos/br/gnt-br.png" group-title="VARIEDADES",GNT HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59060
-#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://koratv.app/logos/br/hgtv-ar.png" group-title="VARIEDADES",HGTV HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59070
-#EXTINF:-1 tvg-id="ID HD" tvg-name="Investigacao Discovery HD" tvg-logo="https://koratv.app/logos/br/investigation-discovery-us.png" group-title="VARIEDADES",Investigacao Discovery HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59072
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="Lifetime HD" tvg-logo="https://koratv.app/logos/br/lifetime-us.png" group-title="VARIEDADES",Lifetime HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59074
-#EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem" tvg-logo="https://koratv.app/logos/br/modo-viagem-br.png?raw=true" group-title="VARIEDADES",Modo Viagem
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59076
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://koratv.app/logos/br/mtv-us.png" group-title="VARIEDADES",MTV HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59077
-#EXTINF:-1 tvg-id="MULTISHOW HD" tvg-name="Multishow HD" tvg-logo="https://koratv.app/logos/br/multishow-br.png" group-title="VARIEDADES",Multishow HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59078
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://koratv.app/logos/br/national-geographic-lam.png" group-title="VARIEDADES",National Geographic HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59079
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade Brasil" tvg-logo="https://koratv.app/logos/br/tastemade-brasil-vod.png" group-title="VARIEDADES",Tastemade Brasil
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59106
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://koratv.app/logos/br/tlc-us.png" group-title="VARIEDADES",TLC HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59096
-#EXTINF:-1 tvg-id="TRAVEL BOX" tvg-name="Travel Box HD" tvg-logo="https://koratv.app/logos/br/travel_box_brazil.png" group-title="VARIEDADES",Travel Box HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59099
-#EXTINF:-1 tvg-id="" tvg-name="Travel Plus" tvg-logo="https://koratv.app/logos/br/travel_plus.png" group-title="VARIEDADES",Travel Plus
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114003
-#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-name="Viva HD" tvg-logo="https://koratv.app/logos/br/globoplay-novelas-br.png" group-title="VARIEDADES",Viva HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59102
-#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo HD" tvg-logo="https://koratv.app/logos/br/woohoo-br.png" group-title="VARIEDADES",Woohoo HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59104
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL NEWS" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="NOTÍCIAS",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="NOTÍCIAS",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="NOTÍCIAS",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="Band News HD" tvg-logo="https://koratv.app/logos/br/band-news-br.png" group-title="NOTÍCIAS",Band News HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59039
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN HD" tvg-logo="https://koratv.app/logos/br/cnn-brasil-br.png" group-title="NOTÍCIAS",CNN HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59044
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="Globo News HD" tvg-logo="https://koratv.app/logos/br/globo-news-br.png" group-title="NOTÍCIAS",Globo News HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59059
-#EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JP News" tvg-logo="https://koratv.app/logos/br/jovem-pan-news-br.png" group-title="NOTÍCIAS",JP News
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59073
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="Record News HD" tvg-logo="https://koratv.app/logos/br/record-news-br.png" group-title="NOTÍCIAS",Record News HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59083
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "BRASIL ABERTOS" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="ABERTOS",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ABERTOS",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ABERTOS",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" tvg-name="Band RS HD" tvg-logo="https://koratv.app/logos/br/band-br.png" group-title="ABERTOS",Band RS HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59195
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo SP HD" tvg-logo="https://koratv.app/logos/br/globo-br.png" group-title="ABERTOS",Globo SP HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59180
-#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://koratv.app/logos/br/globo-br.png" group-title="ABERTOS",Globo TV Anhanguera HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59182
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiás HD" tvg-logo="https://koratv.app/logos/br/record-br.png" group-title="ABERTOS",Record TV Goiás HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59192
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="Rede TV HD" tvg-logo="https://koratv.app/logos/br/rede-tv-br.png" group-title="ABERTOS",Rede TV HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59084
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://koratv.app/logos/br/sbt-br.png" group-title="ABERTOS",SBT HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59189
-#EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-name="TV Aparecida HD" tvg-logo="https://koratv.app/logos/br/tv-aparecida-br.png" group-title="ABERTOS",TV Aparecida HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59166
-#EXTINF:-1 tvg-id="CULTURA HD" tvg-name="TV Cultura HD" tvg-logo="https://koratv.app/logos/br/tv-cultura-br.png" group-title="ABERTOS",TV Cultura HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/59168
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "XXX" <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-id="" group-title="ADULTOS",SEU PLANO VENCE 11/05 19:08 HS
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ADULTOS",PIX (CELULAR): 62994561020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" group-title="ADULTOS",ZAP 62 99456-1020
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/
-#EXTINF:-1 tvg-id="" tvg-name="Brazzer" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Brazzer
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114741
-#EXTINF:-1 tvg-id="" tvg-name="Brazzer HD" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Brazzer HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114740
-#EXTINF:-1 tvg-id="" tvg-name="Culionero" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Culionero
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114739
-#EXTINF:-1 tvg-id="" tvg-name="JAV-X" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",JAV-X
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114738
-#EXTINF:-1 tvg-id="" tvg-name="Men" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Men
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114731
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Playboy
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114733
-#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Playboy HD
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114732
-#EXTINF:-1 tvg-id="" tvg-name="PLayboy LA" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",PLayboy LA
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114734
-#EXTINF:-1 tvg-id="" tvg-name="S-HOT" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",S-HOT
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114736
-#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Sextreme
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114735
-#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",Venus
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/114737
-#EXTINF:-1 tvg-id="" tvg-name="XXX West" tvg-logo="http://ceoapps.org/logos/adults.png" group-title="ADULTOS",XXX West
-https://toptv365.com/9hHnfIakwx/Wcc9vvPeSJ/113899
-
-
-
-
-
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Curta%21.png" group-title="VARIEDADES",Curta! FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1818.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Curta%21.png" group-title="VARIEDADES",Curta! HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Curta%21.png" group-title="VARIEDADES",Curta!
+http://matinho.shop:80/live/Ednacademia/9338376877/2079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Arte1.png" group-title="VARIEDADES",Arte 1 FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1809.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Arte1.png" group-title="VARIEDADES",Arte 1 HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Arte1.png" group-title="VARIEDADES",Arte 1
+http://matinho.shop:80/live/Ednacademia/9338376877/2051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Food%20Network%20HD.png" group-title="VARIEDADES",Food Network FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1830.m3u8
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Food%20Network%20HD.png" group-title="VARIEDADES",Food Network HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Food%20Network.png" group-title="VARIEDADES",Food Network
+http://matinho.shop:80/live/Ednacademia/9338376877/2111.m3u8
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/E%21%20Entertainment%20HD.png" group-title="VARIEDADES",E! FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1826.m3u8
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/E%21%20Entertainment%20HD.png" group-title="VARIEDADES",E! HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://channelart.8b90287dn2.online/images/logos/E%21%20Entertainment.png" group-title="VARIEDADES",E!
+http://matinho.shop:80/live/Ednacademia/9338376877/2099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fish%20TV%20HD.png" group-title="VARIEDADES",Fish TV FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fish%20TV%20HD.png" group-title="VARIEDADES",Fish TV HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fish%20TV.png" group-title="VARIEDADES",Fish TV 
+http://matinho.shop:80/live/Ednacademia/9338376877/2109.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/WooHoo.png" group-title="VARIEDADES",Woohoo FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/1875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/WooHoo.png" group-title="VARIEDADES",Woohoo HD
+http://matinho.shop:80/live/Ednacademia/9338376877/2267.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/WooHoo.png" group-title="VARIEDADES",Woohoo
+http://matinho.shop:80/live/Ednacademia/9338376877/2266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",Modo Viagem FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/928399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",Modo Viagem HD
+http://matinho.shop:80/live/Ednacademia/9338376877/928400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",Modo Viagem
+http://matinho.shop:80/live/Ednacademia/9338376877/928401.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Travel%20Box%20Brazil.png" group-title="VARIEDADES",Travel Box Brazil FHD
+http://matinho.shop:80/live/Ednacademia/9338376877/943910.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Travel%20Box%20Brazil.png" group-title="VARIEDADES",Travel Box Brazil HD
+http://matinho.shop:80/live/Ednacademia/9338376877/943911.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Travel%20Box%20Brazil.png" group-title="VARIEDADES",Travel Box Brazil 
+http://matinho.shop:80/live/Ednacademia/9338376877/943912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="VARIEDADES",Sabor & Arte 
+http://matinho.shop:80/live/Ednacademia/9338376877/61332.m3u8
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Dog%20TV.png" group-title="VARIEDADES",DOGTV 
+http://matinho.shop:80/live/Ednacademia/9338376877/66622.m3u8
